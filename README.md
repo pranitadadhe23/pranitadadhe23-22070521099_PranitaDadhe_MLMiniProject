@@ -1,7 +1,3 @@
-Perfect 💪 Here’s a **professional GitHub README.md** draft you can copy-paste into your repository —
-It’s written to fit your **coal stock forecasting mini project** exactly and look great to your professors:
-
----
 
 # ⚡ Coal Stock Forecasting using Machine Learning and Deep Learning
 
@@ -135,3 +131,4 @@ B.Tech — Computer Science
 Symbiosis Institute of Technology, Nagpur
 📧 [pranita.dadhe.btech2022@sitnagpur.siu.edu.in](mailto:pranita.dadhe.btech2022@sitnagpur.siu.edu.in)
 🔗 [GitHub Profile](https://github.com/pranitadadhe23)
+

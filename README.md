@@ -3,15 +3,15 @@
 
 ### 🧠 Mini Project — Machine Learning (Section C)
 
-**By:** Pranita Dadhe (PRN: 22070521099)
-**Institute:** Symbiosis Institute of Technology, Nagpur
-**Email:** [pranita.dadhe.btech2022@sitnagpur.siu.edu.in](mailto:pranita.dadhe.btech2022@sitnagpur.siu.edu.in)
+**By:** Pranita Dadhe (PRN: 22070521099)  
+**Institute:** Symbiosis Institute of Technology, Nagpur  
+**Email:** [pranita.dadhe.btech2022@sitnagpur.siu.edu.in](mailto:pranita.dadhe.btech2022@sitnagpur.siu.edu.in)  
 
 ---
 
-## 📖 Project Overview
+## 📖 Project Overview  
 
-This project focuses on analyzing and forecasting coal stock levels of Indian thermal power plants using data obtained from the **India Data Portal**. The aim is to monitor stock sufficiency, identify shortage patterns, and forecast future stock levels using various **machine learning and deep learning models**.
+This project focuses on analyzing and forecasting coal stock levels of Indian thermal power plants using data obtained from the **India Data Portal**. The aim is to monitor stock sufficiency, identify shortage patterns, and forecast future stock levels using various **machine learning and deep learning models**.  
 
 The dashboard and models help optimize coal distribution and ensure uninterrupted power generation through data-driven insights.
 
@@ -131,4 +131,5 @@ B.Tech — Computer Science
 Symbiosis Institute of Technology, Nagpur
 📧 [pranita.dadhe.btech2022@sitnagpur.siu.edu.in](mailto:pranita.dadhe.btech2022@sitnagpur.siu.edu.in)
 🔗 [GitHub Profile](https://github.com/pranitadadhe23)
+
 
